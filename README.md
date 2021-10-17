@@ -5,6 +5,12 @@ There are multiple cryptocurrencies to choose from.  Using unsupervised learning
 
 **The origional data included:**
 
+![image](https://user-images.githubusercontent.com/85403978/137636560-c5ab4a10-ef27-4e8a-bf0a-3470c9f2224b.png)
+
 **After Cleaning, Scaling, and organizing the data:**
 
+![image](https://user-images.githubusercontent.com/85403978/137636582-e7a36ee9-3b14-4ebf-831d-3a2258aaeb36.png)
+
 **Class One might be the best group for potential investment.**
+
+![image](https://user-images.githubusercontent.com/85403978/137636594-a6691991-7e61-4d28-9a16-d7d678e1b667.png)
